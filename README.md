@@ -71,8 +71,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raffneptune&show_icons=true&theme=radical&layout=compact" alt="Top Languages" width="48%" class="stats-card"/>
 </div>
 
-| <a href="https://github.com/raffneptune/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=raffneptune&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="raffneptune's github stats" /></a> | <a href="https://github.com/raffneptune/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raffneptune&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
 #### Top Repositories
 <a href="https://github.com/raffneptune/raffneptune.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=raffneptune.github.io&theme=buefy" />
