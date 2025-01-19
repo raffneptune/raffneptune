@@ -20,6 +20,24 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40" class="tool-icon"/> 
     </a> 
 </p>
+
+
+
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> 
+| <a href="https://github.com/raffneptune/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=raffneptune&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="raffneptune's github stats" /></a> | <a href="https://github.com/raffneptune/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raffneptune&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+#### Top Repositories
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=raffneptune.github.io&theme=buefy" />
+</a>
+<br />
+<br />
+<a href="https://www.instagram.com/raffneptune">
+  <img align="right" alt="raffneptune | Instagram" width="20px" src="https://raw.githubusercontent.com/raffneptune/raffneptune/master/assets/instagram.svg" />
+</a>
+
+
+
 <h1>project1</h1>
 <a href="https://raffneptune.github.io" style="color: black; text-decoration: none;">raffneptune.github.io</a>
 <h1>project2</h1>
