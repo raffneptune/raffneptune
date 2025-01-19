@@ -64,6 +64,12 @@
 <code><img height="20" alt="xampp" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg"></code>
 <code><img height="20" alt="vscode" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></code>
 </p>
+<!-- GitHub Stats and Top Languages with Flip Animation -->
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=raffneptune&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" class="stats-card"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=raffneptune&theme=radical" alt="GitHub Streak" width="48%" class="stats-card"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raffneptune&show_icons=true&theme=radical&layout=compact" alt="Top Languages" width="48%" class="stats-card"/>
+</div>
 
 | <a href="https://github.com/raffneptune/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=raffneptune&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="raffneptune's github stats" /></a> | <a href="https://github.com/raffneptune/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raffneptune&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
