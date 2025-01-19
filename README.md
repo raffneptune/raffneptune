@@ -20,12 +20,6 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40" class="tool-icon"/> 
     </a> 
 </p>
-
-
-
-
-
-
 <h1>project1</h1>
 <a href="https://raffneptune.github.io" style="color: black; text-decoration: none;">raffneptune.github.io</a>
 <h1>project2</h1>
