@@ -44,7 +44,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" class="tool-icon"/> 
     </a>
 </p>
-
+<p align="center" class="tools-container">
 <code><img height="20" alt="html5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
 <code><img height="20" alt="css3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
@@ -59,6 +59,8 @@
 <code><img height="20" alt="xampp" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg"></code>
 <code><img height="20" alt="sqlserver" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"></code>
 <code><img height="20" alt="vscode" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></code>
+</p>
+
 | <a href="https://github.com/raffneptune/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=raffneptune&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="raffneptune's github stats" /></a> | <a href="https://github.com/raffneptune/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raffneptune&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 #### Top Repositories
@@ -85,9 +87,6 @@
 <a href="https://www.instagram.com/raffneptune">
   <img align="right" alt="raffneptune | Instagram" width="20px" src="https://raw.githubusercontent.com/raffneptune/raffneptune/master/assets/instagram.svg" />
 </a>
-
-
-
 <h1>project1</h1>
 <a href="https://raffneptune.github.io" style="color: black; text-decoration: none;">raffneptune.github.io</a>
 <h1>project2</h1>
