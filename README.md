@@ -1,3 +1,19 @@
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <!-- Baris pertama -->
+  <img src="https://raw.githubusercontent.com/raffneptune/raffneptune/main/raffneptune-left.gif" 
+       width="300" 
+       alt="raffneptune left GIF"/>
+  <img src="https://raw.githubusercontent.com/raffneptune/raffneptune/main/raffneptune-right.gif" 
+       width="300" 
+       alt="raffneptune right GIF"/>
+  <!-- Baris kedua -->
+  <img src="https://raw.githubusercontent.com/raffneptune/raffneptune/main/raffneptune-left.gif" 
+       width="300" 
+       alt="raffneptune left GIF"/>
+  <img src="https://raw.githubusercontent.com/raffneptune/raffneptune/main/raffneptune-right.gif" 
+       width="300" 
+       alt="raffneptune right GIF"/>
+</div>
 <div>
   <!-- GIF pertama -->
   <img src="https://raw.githubusercontent.com/raffneptune/raffneptune/main/raffneptune-left.gif" 
