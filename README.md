@@ -1,3 +1,6 @@
+<div align="center">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXlmdzI3dTh5dGpqMG11ZmI1NHBzOTJ1c202NzY0Mmx1djBpd2s0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZL2iRxhnDwtSE/giphy.gif" width="600" alt="Sasuke Mangekyou GIF"/>
+</div>
 <!-- Languages and Tools with 3D Flip Animation -->
 <h3 align="center">Languages and Tools</h3>
 <p align="center" class="tools-container">
