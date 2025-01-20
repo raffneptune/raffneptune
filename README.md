@@ -75,9 +75,9 @@
 </p>
 <!-- GitHub Stats and Top Languages with Flip Animation -->
 <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raffneptune&show_icons=true&theme=radical&layout=compact" alt="Top Languages" width="48%" class="stats-card"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=raffneptune&theme=radical" alt="GitHub Streak" width="51%" class="stats-card"/>
     <img src="https://github-readme-stats.vercel.app/api?username=raffneptune&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" class="stats-card"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raffneptune&show_icons=true&theme=radical&layout=compact" alt="Top Languages" width="48%" class="stats-card"/>
 </div>
 
 #### Top Repositories
