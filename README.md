@@ -1,10 +1,10 @@
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <!-- Baris pertama -->
   <img src="https://raw.githubusercontent.com/raffneptune/raffneptune/main/raffneptune-left.gif" 
-       width="415" 
+       width="412" 
        alt="raffneptune left GIF"/>
   <img src="https://raw.githubusercontent.com/raffneptune/raffneptune/main/raffneptune-right.gif" 
-       width="415" 
+       width="412" 
        alt="raffneptune right GIF"/>
 </div>
 <!-- Languages and Tools with 3D Flip Animation -->
