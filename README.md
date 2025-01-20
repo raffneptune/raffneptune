@@ -1,32 +1,11 @@
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <!-- Baris pertama -->
   <img src="https://raw.githubusercontent.com/raffneptune/raffneptune/main/raffneptune-left.gif" 
-       width="300" 
-       alt="raffneptune left GIF"/>
-  <img src="https://raw.githubusercontent.com/raffneptune/raffneptune/main/raffneptune-right.gif" 
-       width="300" 
-       alt="raffneptune right GIF"/>
-  <!-- Baris kedua -->
-  <img src="https://raw.githubusercontent.com/raffneptune/raffneptune/main/raffneptune-left.gif" 
-       width="300" 
-       alt="raffneptune left GIF"/>
-  <img src="https://raw.githubusercontent.com/raffneptune/raffneptune/main/raffneptune-right.gif" 
-       width="300" 
-       alt="raffneptune right GIF"/>
-</div>
-<div>
-  <!-- GIF pertama -->
-  <img src="https://raw.githubusercontent.com/raffneptune/raffneptune/main/raffneptune-left.gif" 
        width="500" 
        alt="raffneptune left GIF"/>
-  <!-- GIF kedua -->
   <img src="https://raw.githubusercontent.com/raffneptune/raffneptune/main/raffneptune-right.gif" 
        width="500" 
        alt="raffneptune right GIF"/>
-</div>
-<div>
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXlmdzI3dTh5dGpqMG11ZmI1NHBzOTJ1c202NzY0Mmx1djBpd2s0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZL2iRxhnDwtSE/giphy.gif" width="500" alt="Sasuke Mangekyou GIF"/>
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXlmdzI3dTh5dGpqMG11ZmI1NHBzOTJ1c202NzY0Mmx1djBpd2s0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZL2iRxhnDwtSE/giphy.gif" width="500" alt="Sasuke Mangekyou GIF"/>
 </div>
 <!-- Languages and Tools with 3D Flip Animation -->
 <h3 align="center">Languages and Tools</h3>
