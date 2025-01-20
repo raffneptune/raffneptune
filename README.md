@@ -1,11 +1,11 @@
 <div>
   <!-- GIF pertama -->
   <img src="https://raw.githubusercontent.com/raffneptune/raffneptune/main/raffneptune-left.gif" 
-       width="500" 
+       width="450" 
        alt="raffneptune left GIF"/>
   <!-- GIF kedua -->
   <img src="https://raw.githubusercontent.com/raffneptune/raffneptune/main/raffneptune-right.gif" 
-       width="500" 
+       width="450" 
        alt="raffneptune right GIF"/>
 </div>
 
