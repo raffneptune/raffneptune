@@ -1,7 +1,14 @@
 <div>
-https://raw.githubusercontent.com/raffneptune/raffneptune/main/raffneptune-right.gif
-https://raw.githubusercontent.com/raffneptune/raffneptune/main/raffneptune-left.gif
+  <!-- GIF pertama -->
+  <img src="https://raw.githubusercontent.com/raffneptune/raffneptune/main/raffneptune-left.gif" 
+       width="500" 
+       alt="raffneptune left GIF"/>
+  <!-- GIF kedua -->
+  <img src="https://raw.githubusercontent.com/raffneptune/raffneptune/main/raffneptune-right.gif" 
+       width="500" 
+       alt="raffneptune right GIF"/>
 </div>
+
 <div>
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXlmdzI3dTh5dGpqMG11ZmI1NHBzOTJ1c202NzY0Mmx1djBpd2s0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZL2iRxhnDwtSE/giphy.gif" width="500" alt="Sasuke Mangekyou GIF"/>
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXlmdzI3dTh5dGpqMG11ZmI1NHBzOTJ1c202NzY0Mmx1djBpd2s0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZL2iRxhnDwtSE/giphy.gif" width="500" alt="Sasuke Mangekyou GIF"/>
