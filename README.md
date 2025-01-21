@@ -73,32 +73,68 @@
 <code><img height="20" alt="xampp" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg"></code>
 <code><img height="20" alt="vscode" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></code>
 </p>
-<!-- GitHub Stats and Top Languages with Flip Animation -->
 <div align="center">
-    <img src="" alt="Top Languages" width="48%" class="stats-card"/>
-    <br/>
-    <img src="" alt="GitHub Streak" width="51%" class="stats-card"/>
-    <img src="" alt="GitHub Stats" width="48%" class="stats-card"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=raffneptune&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="raffneptune's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raffneptune&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="raffneptune's Top Languages" width="355" />
 </div>
 
-#### Top Repositories
+#### Repositories
 <a href="https://github.com/raffneptune/raffneptune.github.io">
-  <img align="center" src="" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=raffneptune.github.io&theme=buefy&cache_seconds=1800" />
+</a>
+<a href="https://github.com/raffneptune/raffneptune">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=raffneptune&theme=buefy&cache_seconds=1800" />
+</a>
+<a href="https://github.com/raffneptune/project1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=project1&theme=buefy&cache_seconds=1800" />
+</a>
+<a href="https://github.com/raffneptune/project2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=project2&theme=buefy&cache_seconds=1800" />
+</a>
+<a href="https://github.com/raffneptune/project3">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=project3&theme=buefy&cache_seconds=1800" />
+</a>
+<a href="https://github.com/raffneptune/project4">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=project4&theme=buefy&cache_seconds=1800" />
 </a>
 <a href="https://github.com/raffneptune/project5">
-  <img align="center" src="" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=project5&theme=buefy&cache_seconds=1800" />
 </a>
 <a href="https://github.com/raffneptune/project6">
-  <img align="center" src="" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=project6&theme=buefy&cache_seconds=1800" />
 </a>
 <a href="https://github.com/raffneptune/project7">
-  <img align="center" src="" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=project7&theme=buefy&cache_seconds=1800" />
 </a>
 <a href="https://github.com/raffneptune/project8">
-  <img align="center" src="" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=project8&theme=buefy&cache_seconds=1800" />
 </a>
 <a href="https://github.com/raffneptune/project9">
-  <img align="center" src="" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=project9&theme=buefy&cache_seconds=1800" />
+</a>
+<a href="https://github.com/raffneptune/project10">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=project10&theme=buefy&cache_seconds=1800" />
+</a>
+<a href="https://github.com/raffneptune/project11">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=project11&theme=buefy&cache_seconds=1800" />
+</a>
+<a href="https://github.com/raffneptune/py">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=py&theme=buefy&cache_seconds=1800" />
+</a>
+<a href="https://github.com/raffneptune/c">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=c&theme=buefy&cache_seconds=1800" />
+</a>
+<a href="https://github.com/raffneptune/cpp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=cpp&theme=buefy&cache_seconds=1800" />
+</a>
+<a href="https://github.com/raffneptune/cs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=cs&theme=buefy&cache_seconds=1800" />
+</a>
+<a href="https://github.com/raffneptune/java">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=java&theme=buefy&cache_seconds=1800" />
+</a>
+<a href="https://github.com/raffneptune/sql">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=sql&theme=buefy&cache_seconds=1800" />
 </a>
 <br />
 <br />
@@ -127,3 +163,22 @@
 <a href="https://raffneptune.github.io/project10/index.php" style="color: black; text-decoration: none;">raffneptune.github.io/project10</a>
 <h1>project11</h1>
 <a href="https://raffneptune.github.io/project11/index.php" style="color: black; text-decoration: none;">raffneptune.github.io/project11</a>
+#### Repositories
+<a href="https://github.com/raffneptune/raffneptune.github.io">
+  <img align="center" src="" />
+</a>
+<a href="https://github.com/raffneptune/project5">
+  <img align="center" src="" />
+</a>
+<a href="https://github.com/raffneptune/project6">
+  <img align="center" src="" />
+</a>
+<a href="https://github.com/raffneptune/project7">
+  <img align="center" src="" />
+</a>
+<a href="https://github.com/raffneptune/project8">
+  <img align="center" src="" />
+</a>
+<a href="https://github.com/raffneptune/project9">
+  <img align="center" src="" />
+</a>
