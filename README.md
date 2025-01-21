@@ -77,6 +77,28 @@
   <img src="https://github-readme-stats.vercel.app/api?username=raffneptune&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="raffneptune's Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raffneptune&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="raffneptune's Top Languages" width="355" />
 </div>
+<h1>web1</h1>
+<a href="https://raffneptune.github.io" style="color: black; text-decoration: none;">raffneptune.github.io</a>
+<h1>web2</h1>
+<a href="https://raffneptune.github.io/web2/index.html" style="color: black; text-decoration: none;">raffneptune.github.io/web2</a>
+<h1>web3</h1>
+<a href="https://raffneptune.github.io/web3/index.html" style="color: black; text-decoration: none;">raffneptune.github.io/web3</a>
+<h1>web4</h1>
+<a href="https://raffneptune.github.io/web4/index.html" style="color: black; text-decoration: none;">raffneptune.github.io/web4</a>
+<h1>web5</h1>
+<a href="https://raffneptune.github.io/web5/index.html" style="color: black; text-decoration: none;">raffneptune.github.io/web5</a>
+<h1>web6</h1>
+<a href="https://raffneptune.github.io/web6/index.html" style="color: black; text-decoration: none;">raffneptune.github.io/web6</a>
+<h1>web7</h1>
+<a href="https://raffneptune.github.io/web7/index.html" style="color: black; text-decoration: none;">raffneptune.github.io/web7</a>
+<h1>web8</h1>
+<a href="https://raffneptune.github.io/web8/index.html" style="color: black; text-decoration: none;">raffneptune.github.io/web8</a>
+<h1>web9</h1>
+<a href="https://raffneptune.github.io/web9/index.html" style="color: black; text-decoration: none;">raffneptune.github.io/web9</a>
+<h1>web10</h1>
+<a href="https://raffneptune.github.io/web10/index.php" style="color: black; text-decoration: none;">raffneptune.github.io/web10</a>
+<h1>web11</h1>
+<a href="https://raffneptune.github.io/web11/index.php" style="color: black; text-decoration: none;">raffneptune.github.io/web11</a>
 
 #### Repositories
 <a href="https://github.com/raffneptune/raffneptune.github.io">
@@ -136,30 +158,3 @@
 <a href="https://github.com/raffneptune/sql">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=sql&theme=buefy&cache_seconds=1800" />
 </a>
-<br />
-<br />
-<a href="https://www.instagram.com/raffneptune">
-  <img align="right" alt="raffneptune | Instagram" width="20px" src="https://raw.githubusercontent.com/raffneptune/raffneptune/master/assets/instagram.svg" />
-</a>
-<h1>web1</h1>
-<a href="https://raffneptune.github.io" style="color: black; text-decoration: none;">raffneptune.github.io</a>
-<h1>web2</h1>
-<a href="https://raffneptune.github.io/web2/index.html" style="color: black; text-decoration: none;">raffneptune.github.io/web2</a>
-<h1>web3</h1>
-<a href="https://raffneptune.github.io/web3/index.html" style="color: black; text-decoration: none;">raffneptune.github.io/web3</a>
-<h1>web4</h1>
-<a href="https://raffneptune.github.io/web4/index.html" style="color: black; text-decoration: none;">raffneptune.github.io/web4</a>
-<h1>web5</h1>
-<a href="https://raffneptune.github.io/web5/index.html" style="color: black; text-decoration: none;">raffneptune.github.io/web5</a>
-<h1>web6</h1>
-<a href="https://raffneptune.github.io/web6/index.html" style="color: black; text-decoration: none;">raffneptune.github.io/web6</a>
-<h1>web7</h1>
-<a href="https://raffneptune.github.io/web7/index.html" style="color: black; text-decoration: none;">raffneptune.github.io/web7</a>
-<h1>web8</h1>
-<a href="https://raffneptune.github.io/web8/index.html" style="color: black; text-decoration: none;">raffneptune.github.io/web8</a>
-<h1>web9</h1>
-<a href="https://raffneptune.github.io/web9/index.html" style="color: black; text-decoration: none;">raffneptune.github.io/web9</a>
-<h1>web10</h1>
-<a href="https://raffneptune.github.io/web10/index.php" style="color: black; text-decoration: none;">raffneptune.github.io/web10</a>
-<h1>web11</h1>
-<a href="https://raffneptune.github.io/web11/index.php" style="color: black; text-decoration: none;">raffneptune.github.io/web11</a>
