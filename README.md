@@ -75,30 +75,30 @@
 </p>
 <!-- GitHub Stats and Top Languages with Flip Animation -->
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raffneptune&show_icons=true&theme=radical&layout=compact" alt="Top Languages" width="48%" class="stats-card"/>
+    <img src="" alt="Top Languages" width="48%" class="stats-card"/>
     <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=raffneptune&theme=radical" alt="GitHub Streak" width="51%" class="stats-card"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=raffneptune&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" class="stats-card"/>
+    <img src="" alt="GitHub Streak" width="51%" class="stats-card"/>
+    <img src="" alt="GitHub Stats" width="48%" class="stats-card"/>
 </div>
 
 #### Top Repositories
 <a href="https://github.com/raffneptune/raffneptune.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=raffneptune.github.io&theme=buefy" />
+  <img align="center" src="" />
 </a>
 <a href="https://github.com/raffneptune/project5">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=project5&theme=buefy" />
+  <img align="center" src="" />
 </a>
 <a href="https://github.com/raffneptune/project6">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=project6&theme=buefy" />
+  <img align="center" src="" />
 </a>
 <a href="https://github.com/raffneptune/project7">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=project7&theme=buefy" />
+  <img align="center" src="" />
 </a>
 <a href="https://github.com/raffneptune/project8">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=project8&theme=buefy" />
+  <img align="center" src="" />
 </a>
 <a href="https://github.com/raffneptune/project9">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=project9&theme=buefy" />
+  <img align="center" src="" />
 </a>
 <br />
 <br />
