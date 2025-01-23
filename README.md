@@ -75,7 +75,7 @@
 <code><img height="20" alt="vscode" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></code>
 </p>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raffneptune&theme=vue-dark&show_icons=true&hide_border=true&count_private=truye" alt="raffneptune's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=raffneptune&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="raffneptune's Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=raffneptune&theme=vue-dark&hide_border=true" alt="raffneptune's Streak" width="495" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raffneptune&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="raffneptune's Top Languages" width="355" />
 <h1>web 1</h1>
