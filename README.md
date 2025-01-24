@@ -43,6 +43,9 @@
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" class="tool-icon"/> 
     </a>
+    <a href="https://golang.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40" class="tool-icon"/>
+    </a>
 </p>
 <p align="center" class="tools-container">
 <code><img height="20" alt="html5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
@@ -56,6 +59,7 @@
 <code><img height="20" alt="c" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
 <code><img height="20" alt="python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
 <code><img height="20" alt="java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
+<code><img height="20" alt="go" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"></code>
 </p>
 <h3 align="center">Tools</h3>
 <p align="center" class="tools-container">
