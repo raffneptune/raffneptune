@@ -160,6 +160,15 @@
 <a href="https://github.com/raffneptune/java">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=java&theme=buefy&cache_seconds=1800" />
 </a>
+<a href="https://github.com/raffneptune/go">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=go&theme=buefy&cache_seconds=1800" />
+</a>
+<a href="https://github.com/raffneptune/mix">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=mix&theme=buefy&cache_seconds=1800" />
+</a>
 <a href="https://github.com/raffneptune/sql">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=sql&theme=buefy&cache_seconds=1800" />
+</a>
+<a href="https://github.com/raffneptune/collaboration">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=collaboration&theme=buefy&cache_seconds=1800" />
 </a>
