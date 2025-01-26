@@ -169,6 +169,3 @@
 <a href="https://github.com/raffneptune/sql">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=sql&theme=buefy&cache_seconds=1800" />
 </a>
-<a href="https://github.com/raffneptune/collaboration">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=collaboration&theme=buefy&cache_seconds=1800" />
-</a>
