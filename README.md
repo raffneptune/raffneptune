@@ -112,8 +112,6 @@
 <a href="https://raffneptune.github.io/project14/index.html" style="color: black; text-decoration: none;">tap link</a>
 <h1>game 5</h1>
 <a href="https://raffneptune.github.io/project15/index.html" style="color: black; text-decoration: none;">tap link</a>
-<h1>game 6</h1>
-<a href="https://raffneptune.github.io/project16/index.html" style="color: black; text-decoration: none;">tap link</a>
 
 #### Repositories
 <a href="https://github.com/raffneptune/raffneptune.github.io">
