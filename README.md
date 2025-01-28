@@ -72,11 +72,15 @@
     <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" class="tool-icon"/> 
     </a>
+   <a href="https://vercel.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" width="40" height="40" class="tool-icon"/>
+    </a>
 </p>
 <p align="center" class="tools-container">
 <code><img height="20" alt="github" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></code>
 <code><img height="20" alt="xampp" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg"></code>
 <code><img height="20" alt="vscode" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></code>
+<code><img height="20" alt="vercel" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg"></code>
 </p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=raffneptune&theme=vue-dark&show_icons=true&hide_border=true&count_private=truye" alt="raffneptune's Stats" />
