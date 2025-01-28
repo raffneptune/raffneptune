@@ -158,7 +158,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=web10&theme=buefy&cache_seconds=1800" />
 </a>
 <a href="https://github.com/raffneptune/web11">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=web10&theme=buefy&cache_seconds=1800" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=web11&theme=buefy&cache_seconds=1800" />
 </a>
 <a href="https://github.com/raffneptune/game1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=game1&theme=buefy&cache_seconds=1800" />
