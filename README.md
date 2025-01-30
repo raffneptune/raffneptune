@@ -85,7 +85,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=raffneptune&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="raffneptune's Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=raffneptune&theme=tokyonight&hide_border=true" alt="raffneptune's Streak" width="495" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raffneptune&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="raffneptune's Top Languages" width="355" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raffneptune&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="raffneptune's Top Languages" width="355" />
 <h1>web 1</h1>
 <a href="https://raffneptune-web1.vercel.app" style="color: black; text-decoration: none;">tap link</a>
 <h1>web 2</h1>
