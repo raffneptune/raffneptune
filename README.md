@@ -90,42 +90,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=raffneptune&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="raffneptune's Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=raffneptune&theme=tokyonight&hide_border=true" alt="raffneptune's Streak" width="495" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raffneptune&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="raffneptune's Top Languages" width="355" />
-<h1>web 1</h1>
-<a href="https://raffneptune-web1.vercel.app" style="color: black; text-decoration: none;">tap link</a>
-<h1>web 2</h1>
-<a href="https://raffneptune-web2.vercel.app" style="color: black; text-decoration: none;">tap link</a>
-<h1>web 3</h1>
-<a href="https://raffneptune-web3.vercel.app" style="color: black; text-decoration: none;">tap link</a>
-<h1>web 4</h1>
-<a href="https://raffneptune-web4.vercel.app" style="color: black; text-decoration: none;">tap link</a>
-<h1>web 5</h1>
-<a href="https://raffneptune-web5.vercel.app" style="color: black; text-decoration: none;">tap link</a>
-<h1>web 6</h1>
-<a href="https://raffneptune-web6.vercel.app" style="color: black; text-decoration: none;">tap link</a>
-<h1>web 7</h1>
-<a href="https://raffneptune-web7.vercel.app" style="color: black; text-decoration: none;">tap link</a>
-<h1>web 8</h1>
-<a href="https://raffneptune-web8.vercel.app" style="color: black; text-decoration: none;">tap link</a>
-<h1>web 9</h1>
-<a href="https://raffneptune-web9.vercel.app" style="color: black; text-decoration: none;">tap link</a>
-<h1>web 10</h1>
-<a href="https://raffneptune-web10.vercel.app" style="color: black; text-decoration: none;">tap link</a>
-<h1>web 11</h1>
+<h1>Web Saya</h1>
 <a href="https://raffneptune-web11.vercel.app" style="color: black; text-decoration: none;">tap link</a>
-<h1>game 1</h1>
-<a href="https://raffneptune-game1.vercel.app" style="color: black; text-decoration: none;">tap link</a>
-<h1>game 2</h1>
-<a href="https://raffneptune-game2.vercel.app" style="color: black; text-decoration: none;">tap link</a>
-<h1>game 3</h1>
-<a href="https://raffneptune-game3.vercel.app" style="color: black; text-decoration: none;">tap link</a>
-<h1>game 4</h1>
-<a href="https://raffneptune-game4.vercel.app" style="color: black; text-decoration: none;">tap link</a>
-<h1>game 5</h1>
-<a href="https://raffneptune-game5.vercel.app" style="color: black; text-decoration: none;">tap link</a>
-<h1>game 6</h1>
-<a href="https://raffneptune-game6.vercel.app" style="color: black; text-decoration: none;">tap link</a>
-<h1>game 7</h1>
-<a href="https://raffneptune-game7.vercel.app" style="color: black; text-decoration: none;">tap link</a>
 
 #### Repositories
 <a href="https://github.com/raffneptune/raffneptune">
@@ -164,6 +130,42 @@
 <a href="https://github.com/raffneptune/web11">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=web11&theme=buefy&cache_seconds=1800" />
 </a>
+<a href="https://github.com/raffneptune/web12">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=web12&theme=buefy&cache_seconds=1800" />
+</a>
+<a href="https://github.com/raffneptune/web13">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=web13&theme=buefy&cache_seconds=1800" />
+</a>
+<a href="https://github.com/raffneptune/web14">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=web14&theme=buefy&cache_seconds=1800" />
+</a>
+<a href="https://github.com/raffneptune/web15">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=web15&theme=buefy&cache_seconds=1800" />
+</a>
+<a href="https://github.com/raffneptune/web16">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=web16&theme=buefy&cache_seconds=1800" />
+</a>
+<a href="https://github.com/raffneptune/web17">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=web17&theme=buefy&cache_seconds=1800" />
+</a>
+<a href="https://github.com/raffneptune/web18">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=web18&theme=buefy&cache_seconds=1800" />
+</a>
+<a href="https://github.com/raffneptune/web19">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=web19&theme=buefy&cache_seconds=1800" />
+</a>
+<a href="https://github.com/raffneptune/web20">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=web20&theme=buefy&cache_seconds=1800" />
+</a>
+<a href="https://github.com/raffneptune/web21">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=web21&theme=buefy&cache_seconds=1800" />
+</a>
+<a href="https://github.com/raffneptune/web22">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=web22&theme=buefy&cache_seconds=1800" />
+</a>
+<a href="https://github.com/raffneptune/web23">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=web23&theme=buefy&cache_seconds=1800" />
+</a>
 <a href="https://github.com/raffneptune/game1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=game1&theme=buefy&cache_seconds=1800" />
 </a>
@@ -184,6 +186,24 @@
 </a>
 <a href="https://github.com/raffneptune/game7">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=game7&theme=buefy&cache_seconds=1800" />
+</a>
+<a href="https://github.com/raffneptune/game8">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=game8&theme=buefy&cache_seconds=1800" />
+</a>
+<a href="https://github.com/raffneptune/game9">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=game9&theme=buefy&cache_seconds=1800" />
+</a>
+<a href="https://github.com/raffneptune/game10">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=game10&theme=buefy&cache_seconds=1800" />
+</a>
+<a href="https://github.com/raffneptune/game11">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=game11&theme=buefy&cache_seconds=1800" />
+</a>
+<a href="https://github.com/raffneptune/game12">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=game12&theme=buefy&cache_seconds=1800" />
+</a>
+<a href="https://github.com/raffneptune/game13">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=game13&theme=buefy&cache_seconds=1800" />
 </a>
 <a href="https://github.com/raffneptune/py">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=py&theme=buefy&cache_seconds=1800" />
