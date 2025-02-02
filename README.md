@@ -164,7 +164,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=web22&theme=buefy&cache_seconds=1800" />
 </a>
 <a href="https://github.com/raffneptune/web23">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=web23&theme=buefy&cache_seconds=1800" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=web24&theme=buefy&cache_seconds=1800" />
 </a>
 <a href="https://github.com/raffneptune/game1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=game1&theme=buefy&cache_seconds=1800" />
@@ -201,9 +201,6 @@
 </a>
 <a href="https://github.com/raffneptune/game12">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=game12&theme=buefy&cache_seconds=1800" />
-</a>
-<a href="https://github.com/raffneptune/game13">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=game13&theme=buefy&cache_seconds=1800" />
 </a>
 <a href="https://github.com/raffneptune/c">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=c&theme=buefy&cache_seconds=1800" />
