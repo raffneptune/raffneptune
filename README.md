@@ -8,7 +8,7 @@
        alt="raffneptune right GIF"/>
 </div>
 <!-- Languages and Tools with 3D Flip Animation -->
-<h3 align="center">Code</h3>
+<h3 align="center">code</h3>
 <p align="center" class="tools-container">
     <a href="https://www.w3schools.com/html" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="20" height="20" class="tool-icon"/> 
@@ -65,7 +65,7 @@
 <code><img height="20" alt="java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
 <code><img height="20" alt="go" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"></code>
 </p>
-<h3 align="center">Tools</h3>
+<h3 align="center">tools</h3>
 <p align="center" class="tools-container">
     <a href="https://github.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="20" height="20" class="tool-icon"/> 
@@ -90,7 +90,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=raffneptune&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="raffneptune's Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=raffneptune&theme=tokyonight&hide_border=true" alt="raffneptune's Streak" width="495" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raffneptune&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="raffneptune's Top Languages" width="355" />
-<h1>Web Saya</h1>
+<h1>my portofolio</h1>
 <a href="https://raffneptune-web11.vercel.app" style="color: black; text-decoration: none;">tap link</a>
 
 #### Repositories
