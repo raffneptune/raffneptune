@@ -97,6 +97,12 @@
 <a href="https://github.com/raffneptune/raffneptune">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=raffneptune&theme=buefy&cache_seconds=1800" />
 </a>
+<a href="https://github.com/raffneptune/tes">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=tes&theme=buefy&cache_seconds=1800" />
+</a>
+<a href="https://github.com/raffneptune/mix">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=mix&theme=buefy&cache_seconds=1800" />
+</a>
 <a href="https://github.com/raffneptune/web1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=web1&theme=buefy&cache_seconds=1800" />
 </a>
