@@ -205,26 +205,23 @@
 <a href="https://github.com/raffneptune/game13">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=game13&theme=buefy&cache_seconds=1800" />
 </a>
-<a href="https://github.com/raffneptune/py">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=py&theme=buefy&cache_seconds=1800" />
-</a>
 <a href="https://github.com/raffneptune/c">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=c&theme=buefy&cache_seconds=1800" />
-</a>
-<a href="https://github.com/raffneptune/cpp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=cpp&theme=buefy&cache_seconds=1800" />
 </a>
 <a href="https://github.com/raffneptune/cs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=cs&theme=buefy&cache_seconds=1800" />
 </a>
-<a href="https://github.com/raffneptune/java">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=java&theme=buefy&cache_seconds=1800" />
+<a href="https://github.com/raffneptune/cpp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=cpp&theme=buefy&cache_seconds=1800" />
 </a>
 <a href="https://github.com/raffneptune/go">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=go&theme=buefy&cache_seconds=1800" />
 </a>
-<a href="https://github.com/raffneptune/mix">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=mix&theme=buefy&cache_seconds=1800" />
+<a href="https://github.com/raffneptune/java">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=java&theme=buefy&cache_seconds=1800" />
+</a>
+<a href="https://github.com/raffneptune/py">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=py&theme=buefy&cache_seconds=1800" />
 </a>
 <a href="https://github.com/raffneptune/sql">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=sql&theme=buefy&cache_seconds=1800" />
