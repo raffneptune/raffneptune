@@ -91,7 +91,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=raffneptune&theme=tokyonight&hide_border=true" alt="raffneptune's Streak" width="495" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raffneptune&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="raffneptune's Top Languages" width="355" />
 <h1>my portofolio</h1>
-<a href="https://raffneptune-web11.vercel.app" style="color: black; text-decoration: none;">tap link</a>
+<a href="https://raffneptune-web.vercel.app" style="color: black; text-decoration: none;">tap link</a>
 
 #### Repositories
 <a href="https://github.com/raffneptune/raffneptune">
