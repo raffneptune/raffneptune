@@ -88,6 +88,9 @@
 </p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=raffneptune&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="raffneptune's Stats" />
+  ![raffneptune's Stats](https://github-readme-stats.vercel.app/api?username=raffneptune&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+  ![raffneptune's Streak](https://github-readme-streak-stats.herokuapp.com/?user=raffneptune&theme=vue-dark&hide_border=false)
+  ![raffneptune's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raffneptune&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=raffneptune&theme=tokyonight&hide_border=true" alt="raffneptune's Streak" width="495" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raffneptune&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="raffneptune's Top Languages" width="355" />
 <h1>my portofolio</h1>
