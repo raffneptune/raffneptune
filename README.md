@@ -21,8 +21,11 @@
 <!-- Top Languages -->
 ![raffneptune's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raffneptune&theme=tokyonight&hide_border=true&layout=compact)
 
-<h1 align="center">portfolio web</h1>
+<h1 align="center">web</h1>
 <a href="https://raffneptune.rf.gd" style="color: black; text-decoration: none;">tap link</a>
+
+<h1 align="center">instagram</h1>
+<a href="https://www.instagram.com/raffneptune" style="color: black; text-decoration: none;">tap link</a>
 
 #### Repositories
 <a href="https://github.com/raffneptune/raffneptune">
