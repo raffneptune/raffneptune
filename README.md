@@ -88,14 +88,6 @@
 </p>
 <div align="center">
   
-<!-- GitHub Stats -->
-![raffneptune's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raffneptune&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-
-<!-- GitHub Streak -->
-![raffneptune's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raffneptune&theme=tokyonight&hide_border=true)
-
-<!-- Top Languages -->
-![raffneptune's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raffneptune&theme=tokyonight&hide_border=true&layout=compact)
 
 <h1>my portofolio</h1>
 <a href="https://raffneptune.vercel.app" style="color: black; text-decoration: none;">tap link</a>
