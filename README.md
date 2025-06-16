@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<h1 align="center">raffneptune</h1>
+<h1 align="center">Raffi | raffneptune</h1>
 
 <!-- GitHub Stats -->
 ![raffneptune's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raffneptune&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
