@@ -21,11 +21,17 @@
 <!-- Top Languages -->
 ![raffneptune's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raffneptune&theme=tokyonight&hide_border=true&layout=compact)
 
+<h1 align="center">gmail</h1>
+<a href="mailto:raffneptune@gmail.com" style="color: black; text-decoration: none;">tap link</a>
+
 <h1 align="center">web</h1>
 <a href="https://raffneptune.ct.ws" style="color: black; text-decoration: none;">tap link</a>
 
 <h1 align="center">instagram</h1>
 <a href="https://www.instagram.com/raffneptune" style="color: black; text-decoration: none;">tap link</a>
+
+<h1 align="center">discord</h1>
+<a href="https://discord.gg/cwvqNwupDn" style="color: black; text-decoration: none;">tap link</a>
 
 #### Repositories
 <a href="https://github.com/raffneptune/raffneptune">
