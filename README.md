@@ -22,7 +22,7 @@
 ![raffneptune's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raffneptune&theme=tokyonight&hide_border=true&layout=compact)
 
 <h1 align="center">web</h1>
-<a href="https://raffneptune.rf.gd" style="color: black; text-decoration: none;">tap link</a>
+<a href="https://raffneptune.ct.ws" style="color: black; text-decoration: none;">tap link</a>
 
 <h1 align="center">instagram</h1>
 <a href="https://www.instagram.com/raffneptune" style="color: black; text-decoration: none;">tap link</a>
@@ -31,14 +31,8 @@
 <a href="https://github.com/raffneptune/raffneptune">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=raffneptune&theme=buefy&cache_seconds=1800" />
 </a>
-<a href="https://github.com/raffneptune/tes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=tes&theme=buefy&cache_seconds=1800" />
-</a>
 <a href="https://github.com/raffneptune/mix">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=mix&theme=buefy&cache_seconds=1800" />
-</a>
-<a href="https://github.com/raffneptune/webbuatraka">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=webbuatraka&theme=buefy&cache_seconds=1800" />
 </a>
 <a href="https://github.com/raffneptune/web1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=web1&theme=buefy&cache_seconds=1800" />
@@ -108,12 +102,6 @@
 </a>
 <a href="https://github.com/raffneptune/web23">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=web23&theme=buefy&cache_seconds=1800" />
-</a>
-<a href="https://github.com/raffneptune/webdatabase1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=webdatabase1&theme=buefy&cache_seconds=1800" />
-</a>
-<a href="https://github.com/raffneptune/webdatabase2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=webdatabase2&theme=buefy&cache_seconds=1800" />
 </a>
 <a href="https://github.com/raffneptune/game1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raffneptune&repo=game1&theme=buefy&cache_seconds=1800" />
